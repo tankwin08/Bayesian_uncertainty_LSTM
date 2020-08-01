@@ -141,7 +141,7 @@ Both models follow the following steps:
 	
 ### Results
 
-We can see that the time series data with large variance are still can be predicted with the autocoder and LSTM.
+We can see that the time series data with large variance are still can be predicted with the autocoder and LSTM framework.
 
 ![alt text](https://github.com/tankwin08/Bayesian_uncertainty_LSTM/blob/master/figs/uncertianty_lstm_AUTOENCODER.png)
 
