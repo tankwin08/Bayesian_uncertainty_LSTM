@@ -134,7 +134,7 @@ Both models follow the following steps:
 	
 ### Results
 
-![Results for LSTM + AUTOENCODER](./figs/uncertianty_lstm + AUTOENCODER.png)
+![alt_text](./figs/uncertianty_lstm + AUTOENCODER.png)
 
 
 
