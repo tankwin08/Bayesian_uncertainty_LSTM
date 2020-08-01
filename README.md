@@ -134,7 +134,7 @@ Both models follow the following steps:
 	
 ### Results
 
-![alt text](https://github.com/tankwin08/waveformlidar/blob/master/man/figures/r_package_graphic_abstract1.png)
+![Results for LSTM + AUTOENCODER](./figs/uncertianty_lstm + AUTOENCODER.png)
 
 
 
