@@ -116,8 +116,9 @@ In addition, we can see if the model can work well for a new time and new locati
 
 There are two methods have been developed:
 
-1 LSTM + autoencoder
-2 LSTM
+	1 LSTM + autoencoder
+
+	2 LSTM
 
 Both models follow the following steps:
 
@@ -134,7 +135,7 @@ Both models follow the following steps:
 	
 ### Results
 
-![alt text](./figs/uncertianty_lstm + AUTOENCODER.png)
+![alt text](https://github.com/tankwin08/Bayesian_uncertainty_LSTM/blob/master/figs/uncertianty_lstm_AUTOENCODER.png)
 
 
 
